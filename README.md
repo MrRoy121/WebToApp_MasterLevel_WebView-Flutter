@@ -1,16 +1,18 @@
 # webtoapp_flutter
+# WebToApp Flutter Webview App
 
-A new Flutter project.
+## Overview
+This Flutter app utilizes a webview to display a web application with extensive features and permissions.
 
-## Getting Started
+## Features
+- **Webview Integration:** Displays a web application seamlessly within the app.
+- **Permission Handling:** Manages various permissions required by the web application.
 
-This project is a starting point for a Flutter application.
+## Permissions Covered
+- **Camera Access:** Enables the web application to use the device's camera.
+- **Location Access:** Allows the web application to fetch the device's location.
+- **Storage Access:** Grants access to local storage for storing app data.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Additional Features
+- **Custom Navigation:** Provides custom navigation options within the webview.
+- **Offline Mode Support:** Handles offline scenarios gracefully.
